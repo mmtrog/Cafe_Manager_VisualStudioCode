@@ -1,12 +1,12 @@
-## Cafe Manager Project	
+# Cafe Manager Project	
 
-### 1. Giới thiệu	
+## 1. Giới thiệu	
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/)	
 
-### 2. Hướng dẫn cài đặt môi trường 	
+## 2. Hướng dẫn cài đặt môi trường 	
 
-#### Yêu cầu:	
+### Yêu cầu:	
 
 
 1.  IDE:                    Visual Studio Code
@@ -21,25 +21,25 @@ https://dev.mysql.com/downloads/installer/
 
 3.  Library:                
 
-**Java SE Development Kit 16:**     
+_Java SE Development Kit 16_     
 ```
 https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 ```
-**Date Chooser:**                    
+_Date Chooser:_                   
 ```
 https://sourceforge.net/projects/jdatechooser/files/jdatechooser/1.1.1/jdatechooser_bin_doc_1_1_1.zip/download
 ```
-**iText PDF:**                       
+_iText PDF:_                       
 ```
 https://jar-download.com/artifacts/com.itextpdf/itextpdf/5.5.9/source-code
 ```
-**Java Sound:**                     
+_Java Sound:_                     
 ```
 http://www.java2s.com/Code/Jar/j/Downloadjl101jar.htm
 ```
 
 
-#### Các bước thiết lập	
+### Các bước thiết lập	
 
 
 1. Cài đặt đầy đủ MySQL và các thư viện đã yêu cầu. (Một số thư viện tải về giải nén là được)
