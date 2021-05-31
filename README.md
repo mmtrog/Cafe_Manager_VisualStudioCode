@@ -4,16 +4,20 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/)	
 
+Đây là một dự án tham khảo từ một dự án khác cũng đi tham khảo và tôi không hoàn toàn tạo ra nó, nếu bạn có thắc mắc có thể liên hệ cho tôi qua email: 
+```
+minhtrongbka@gmail.com
+```
 ## 2. Hướng dẫn cài đặt môi trường 	
 
 ### Yêu cầu:	
 
 
-1.  IDE:                    Visual Studio Code
+1.  IDE: Visual Studio Code
 ```
 https://code.visualstudio.com/
 ```
-2.  Database:               MySQL (MySQL Connector, MySQL Workbench) 
+2.  Database: MySQL (MySQL Connector, MySQL Workbench) 
 ```
 https://dev.mysql.com/downloads/installer/
 ```
