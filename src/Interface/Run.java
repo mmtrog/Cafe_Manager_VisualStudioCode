@@ -17,7 +17,7 @@ public class Run {
     public static void lg() {
         frmlg = new frmLogIn();
         frmlg.setVisible(true);
-    }
+    }   
 
     public static void QLCF() {
         QlCafe = new frmMain();

@@ -29,7 +29,9 @@ public class JpThongTin extends javax.swing.JPanel {
         jLabel8 = new javax.swing.JLabel();
         jLabel10 = new javax.swing.JLabel();
         jLabel6 = new javax.swing.JLabel();
-        jLabel7 = new javax.swing.JLabel();
+        jLabel71 = new javax.swing.JLabel();
+        jLabel72 = new javax.swing.JLabel();
+        jLabel73 = new javax.swing.JLabel();
 
         setBackground(new java.awt.Color(255, 255, 255));
 
@@ -49,13 +51,13 @@ public class JpThongTin extends javax.swing.JPanel {
             .addGap(0, 0, Short.MAX_VALUE)
         );
 
-        jLabel5.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
+        jLabel5.setFont(new java.awt.Font("Tahoma", 1, 16)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(56, 25, 15));
-        jLabel5.setText("Phần mềm được phát triển bởi TNNC Group");
+        jLabel5.setText("Người thực hiện dự án:");
 
         jLabel8.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel8.setForeground(new java.awt.Color(56, 25, 15));
-        jLabel8.setText("Copyright © 2020 tnncgroup.com. All rights reserved ");
+        jLabel8.setText("https://www.hust.edu.vn/");
 
         jLabel10.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
         jLabel10.setForeground(new java.awt.Color(0, 40, 50));
@@ -63,9 +65,17 @@ public class JpThongTin extends javax.swing.JPanel {
         jLabel6.setFont(new java.awt.Font("Tahoma", 2, 11)); // NOI18N
         jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Interface/Images/welcome.png"))); // NOI18N
 
-        jLabel7.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-        jLabel7.setForeground(new java.awt.Color(56, 25, 15));
-        jLabel7.setText("Người thực hiện: TNNC Group");
+        jLabel71.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
+        jLabel71.setForeground(new java.awt.Color(56, 25, 15));
+        jLabel71.setText("Mai Minh Trọng");
+
+        jLabel72.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
+        jLabel72.setForeground(new java.awt.Color(56, 25, 15));
+        jLabel72.setText("Bùi Lê Quyết");
+
+        jLabel73.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
+        jLabel73.setForeground(new java.awt.Color(56, 25, 15));
+        jLabel73.setText("Nguyễn Việt Tùng");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -85,7 +95,9 @@ public class JpThongTin extends javax.swing.JPanel {
                                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                     .addComponent(jLabel5)
                                     .addComponent(jLabel10)
-                                    .addComponent(jLabel7)))
+                                    .addComponent(jLabel71)
+                                    .addComponent(jLabel72)
+                                    .addComponent(jLabel73)))
                             .addGroup(jPanel1Layout.createSequentialGroup()
                                 .addGap(18, 18, 18)
                                 .addComponent(jLabel6)))
@@ -99,7 +111,9 @@ public class JpThongTin extends javax.swing.JPanel {
                 .addGap(33, 33, 33)
                 .addComponent(jLabel5)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel7, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(jLabel71, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(jLabel72, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(jLabel73, javax.swing.GroupLayout.PREFERRED_SIZE, 23, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(73, 73, 73)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel8)
@@ -125,7 +139,9 @@ public class JpThongTin extends javax.swing.JPanel {
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel6;
-    private javax.swing.JLabel jLabel7;
+    private javax.swing.JLabel jLabel71;
+    private javax.swing.JLabel jLabel72;
+    private javax.swing.JLabel jLabel73;
     private javax.swing.JLabel jLabel8;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
