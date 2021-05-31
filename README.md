@@ -26,15 +26,15 @@ _Java SE Development Kit 16_
 ```
 https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 ```
-_Date Chooser:_                   
+_Date Chooser:_     *(Đã có trong lib)*                   
 ```
 https://sourceforge.net/projects/jdatechooser/files/jdatechooser/1.1.1/jdatechooser_bin_doc_1_1_1.zip/download
 ```
-_iText PDF:_                       
+_iText PDF:_        *(Đã có trong lib)*                     
 ```
 https://jar-download.com/artifacts/com.itextpdf/itextpdf/5.5.9/source-code
 ```
-_Java Sound:_                     
+_Java Sound:_       *(Đã có trong lib)*                    
 ```
 http://www.java2s.com/Code/Jar/j/Downloadjl101jar.htm
 ```
@@ -43,7 +43,7 @@ http://www.java2s.com/Code/Jar/j/Downloadjl101jar.htm
 ### Các bước thiết lập	
 
 
-1. Cài đặt đầy đủ MySQL và các thư viện đã yêu cầu. (Một số thư viện tải về giải nén là được)
+1. Cài đặt đầy đủ MySQL và các thư viện đã yêu cầu. (Một số thư viện đã có trong thư mục `lib` và không cần thiết phải tải lại)
 
 2. Mở MySQL Workbench lên, đăng nhập vào localhost và tạo một database mới có tên là `cafe_manager`, sau đó import file `src/Mysql/cafe_manager.sql` vào database mới tạo.	
 
