@@ -2,12 +2,9 @@
 
 ## 1. Giới thiệu	
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/)	
+<h1 align="center">[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/)</h1>
 
-Đây là một dự án tham khảo từ một dự án khác cũng đi tham khảo và tôi không hoàn toàn tạo ra nó, nếu bạn có thắc mắc có thể liên hệ cho tôi qua email: 
-```
-minhtrongbka@gmail.com
-```
+Đây là một dự án tham khảo từ một dự án khác cũng đi tham khảo nên tôi không hoàn toàn tạo ra nó và cũng đếch biết ai là người thực sự tạo ra đầu tiên nhưng điều tôi biết chắc chắn là nó đã được public, nhưng nếu bạn vẫn có thắc mắc có thể liên hệ với tôi.
 ## 2. Hướng dẫn cài đặt môi trường 	
 
 ### Yêu cầu:	
