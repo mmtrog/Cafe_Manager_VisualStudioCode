@@ -2,7 +2,7 @@
 
 ## 1. Giới thiệu	
 
-<h1 align="center">[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/)</h1>
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/)
 
 Đây là một dự án tham khảo từ một dự án khác cũng đi tham khảo nên tôi không hoàn toàn tạo ra nó và cũng đếch biết ai là người thực sự tạo ra đầu tiên nhưng điều tôi biết chắc chắn là nó đã được public, nhưng nếu bạn vẫn có thắc mắc có thể liên hệ với tôi.
 ## 2. Hướng dẫn cài đặt môi trường 	
