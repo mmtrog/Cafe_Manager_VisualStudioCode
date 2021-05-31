@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-java-8.0.25.jar",
+        "c:\\Program Files (x86)\\Java library\\itextpdf-5.5.13.jar",
+        "c:\\Program Files (x86)\\Java library\\jlayer1.0.1\\JLayer1.0.1\\jl1.0.1.jar",
+        "c:\\Program Files (x86)\\Java library\\JdateChooser\\DateChooser.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "cSpell.words": [
+        "quanghuy"
+    ]
+}
